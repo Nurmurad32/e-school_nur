@@ -1,0 +1,140 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* header start */
+.header{
+    min-height: 576px;
+    width: 100%;
+    background-color: #F0FFF0;
+}
+.navbar-brand{
+    width: 200px;
+    height: 60px;
+}
+.navber-brand img{
+    width: 100%;
+}
+.nav-bg{
+    background-color:  #F0FFF0;
+}
+.navbar-nav li{
+    padding: 12px 11px;
+}
+.navbar-nav li a:hover{
+    background-color: #21B573;
+    height: 43px;
+    width: 104px;
+    border-radius: 33px;
+    text-align: center;
+}
+.banner{
+    margin-top: 89px;
+    position: relative;
+}
+.banner-img{
+    width: 554px;
+    height: 346px;
+}
+.banner-text{
+    padding: 0px 40px;
+}
+.banner-text p{
+    color: #FD511A; 
+    font-size:16px; 
+}
+.banner-text h1{
+    font-size: 48px; 
+    font-weight: 900;
+}
+.btn-style{
+    border-style: none;
+    width: 153px;
+    height: 43px;
+    border-radius: 33px;
+    background-color: #21B573;
+    color: white; 
+}
+/* header end */
+/* Advertise start */
+.advertise{
+    margin-top: 42px;
+    height: auto;
+}
+.advertise .card-body{
+    text-align: center;
+}
+.card-advertise{
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+    height: auto;
+    width: 270px;
+}
+.card-advertise:hover{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.card-advertise h5{
+    font-size: 24px; 
+    font-weight: 500;
+}
+.card-advertise{
+    font-size: 16px;
+    color: #585859;
+}
+/* advertise end */
+/* course area start */
+.course-head h2{
+    font-size: 36px;
+    font-weight: bold; 
+    color: #413960; 
+    margin-top: 98px; 
+    margin-bottom: 86px; 
+    text-align: center;
+}
+.card-area{
+    margin: 100px 0;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 10px;
+}
+/* course area End */
+/* testimonial area end */
+.testimonial{
+    margin-top: 81px; 
+    font-size: 36px;  
+    text-align: center; 
+    margin-bottom: 76px;
+}
+/* testimonial area end */
+/* sign in start */
+.contact-area{
+    background-color: #F8FFFB;
+}
+#contact{
+    height: 500px;
+    border-radius: 10px;
+}
+/* sign in end */
+/* Footer area start */
+.footer-area{
+    width: 100%; 
+    background-color: #282531; 
+    color: white; 
+    padding:  55px 0px;
+}
+.footer-area .row{
+    height: 369px;
+}
+.footer-area .copy{
+    text-align: center;
+    color: #CDCDCD;
+    font-size: 16px;
+}
+/* Footer area end */
