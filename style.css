@@ -121,13 +121,16 @@ body{
     height: 500px;
     border-radius: 10px;
 }
+.contact input{
+	width: 350px;
+}
 /* sign in end */
 /* Footer area start */
 .footer-area{
     width: 100%; 
     background-color: #282531; 
     color: white; 
-    padding:  55px 0px;
+    padding:  30px 0px;
 }
 .footer-area .row{
     height: 369px;
